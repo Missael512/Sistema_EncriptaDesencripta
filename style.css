@@ -1,0 +1,18 @@
+.header{
+    padding: 10px 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+.button_encrypt{
+    text-align: center;
+    padding: 10px 15px;
+    margin:15px;
+}
+
+.no_content{
+    text-align: center;
+    color: rgb(187, 20, 20);
+    padding: 10px 15px;
+    margin: 12px;
+}
